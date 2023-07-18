@@ -1,0 +1,13 @@
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/repository/UserRepository.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Mapper/UserMapper.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Exception/GlobalExceptionHandler.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/service/UserService.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Exception/ErrorDetails.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Exception/ResourceNotFoundException.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/RestfulCrudApiApplication.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/controller/UserController.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Mapper/AutoUserMapper.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/Exception/EmailAlreadyExistsException.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/dto/UserDTO.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/service/UserServiceImpl.java
+/Users/deepak.varma/Desktop/restful-CRUD-api/src/main/java/com/springbootAPI/restfulCRUDapi/entity/User.java
